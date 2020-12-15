@@ -1,5 +1,5 @@
-/* Lacy Hayes
-COP 3223C
+/* Lacy H
+Intro to C
 9.25.20
 Assignment 2 */
 
